@@ -28,15 +28,3 @@ Estas son algunas de las herramientas y lenguajes con los que trabajo:
 ### 🎮 Sobre mí e intereses
 
 Fuera de la pantalla y de escribir código, me encantan los **videojuegos** y explorar cómo se construyen las experiencias interactivas. Siempre estoy buscando nuevos retos de aprendizaje y proyectos que desarrollar.
-
----
-### 📊 Estadísticas y Visitas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jcccs&show_icons=true&theme=radical" alt="Estadísticas de GitHub de jcccs" />
-</p>
-
-<p align="center">
-  <!-- Contador de visitas -->
-  <img src="https://komarev.com/ghpvc/?username=jcccs&color=blue&style=flat-square" alt="Contador de visitas de jcccs" />
-</p>
